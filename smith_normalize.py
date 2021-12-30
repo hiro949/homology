@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# reference: https://qiita.com/yuji0001/items/64dc97cd4dcebf83d0a8
+
 
 import numpy as np
 import numpy.linalg as LA
